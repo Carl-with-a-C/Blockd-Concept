@@ -1,0 +1,15 @@
+.nav-btn {
+  width: 110px;
+  height: 110px;
+  background: transparent;
+  border: 0;
+  cursor: pointer;
+  align-items: top;
+  position: absolute;
+  margin: auto;
+  transform: translateX(-9px) translateY(-3px);
+}
+
+.hamburger-svg-hover {
+  transform: translateY(-113px);
+}
